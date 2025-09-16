@@ -1,2 +1,0 @@
-# lvgstoreindia-frontend
-Next.js
